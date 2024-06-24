@@ -11,8 +11,8 @@ title:            Ahcheong Lee
 tagline:          'Homepage'
 # description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 description: 'KAIST PhD. Student<br>Computer Science<br>Software Engineering<br>Automated testing'
-url:              https://ahcheongl.github.io
-baseurl:          https://ahcheongl.github.io
+url:              https://ahcheongl.github.io/
+baseurl:          https://ahcheongl.github.io/
 
 author:
   name:           'Mark Otto'
