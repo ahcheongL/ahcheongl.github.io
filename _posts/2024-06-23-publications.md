@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ### International conferences and journals
-1. **A.Lee**, Y.Choi, S.Hong, Y.Kim, K.Cho, and M.Kim, *ZigZagFuzz: Interleaved Fuzzing of Program Options and Files*, (under review)
+1. **A.Lee**, Y.Choi, S.Hong, Y.Kim, K.Cho, and M.Kim, *ZigZagFuzz: Interleaved Fuzzing of Program Options and Files*, (ACM TOSEM, accepted)
 1. **A.Lee**, I.Ariq, Y.Kim, and M.Kim, [*POWER: Program Option-Aware Fuzzer for High Bug Detection Ability*](https://ahcheongl.github.io/public/pdfs/POWER_ICST_22.pdf "download") (ICST 22) [[slides](https://ahcheongl.github.io/public/pdfs/power_ICST_2022_upload.pdf "download")]
 
 ### Domestic conferences and journals
