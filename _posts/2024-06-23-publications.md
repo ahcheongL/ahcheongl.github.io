@@ -4,12 +4,12 @@ title: Publications
 ---
 
 ### International conferences and journals
+1. H.Yang, **A.Lee** (corresponding author), K.Cho, Y.Kim, *Industrial Application of Deep Learning based Fault Localization with Mutation Features*, (ICST industry, 2026)
 1. **A.Lee**, Y.Choi, S.Hong, Y.Kim, K.Cho, and M.Kim, [*ZigZagFuzz: Interleaved Fuzzing of Program Options and Files*](https://ahcheongl.github.io/public/pdfs/2024_TOSEM_ZigZagFuzz.pdf "download"), (ACM TOSEM, 2025)
-1. **A.Lee**, I.Ariq, Y.Kim, and M.Kim, [*POWER: Program Option-Aware Fuzzer for High Bug Detection Ability*](https://ahcheongl.github.io/public/pdfs/POWER_ICST_22.pdf "download") (ICST 22) [[slides](https://ahcheongl.github.io/public/pdfs/power_ICST_2022_upload.pdf "download")]
+1. **A.Lee**, I.Ariq, Y.Kim, and M.Kim, [*POWER: Program Option-Aware Fuzzer for High Bug Detection Ability*](https://ahcheongl.github.io/public/pdfs/POWER_ICST_22.pdf "download") (ICST, 2022) [[slides](https://ahcheongl.github.io/public/pdfs/power_ICST_2022_upload.pdf "download")]
 
 ### Domestic conferences and journals
-1. L.Zhang, **이아청**, 김문주, 
-*Challenges in Automated Unit Testing of Complex C++ Programs*, Korea Software Congress (KSC 23)
+1. L.Zhang, **이아청**, 김문주,*Challenges in Automated Unit Testing of Complex C++ Programs*, Korea Software Congress (KSC 23)
 2. **이아청**, 김윤호, 김문주, *커맨드 라인 옵션을 변이 및 선택하여 테스팅 효과를 높이는 퍼징 기법*, Journal of KIISE, Vol.49, Num. 11, Nov 2022
 2. **이아청**, 김윤호, 김문주, *유용한 커맨드 라인 옵션을 선택하여 커버리지와 오류 탐지 능력을 높이는 퍼징 기법*, Korea Software Congress (KSC 21) (**Best paper award**)
 2. **이아청**, 김윤호, 김문주, *동적 함수 관련도를 이용한 퍼징 커버리지 향상 기법*, Journal of KIISE, Vol.48, Num. 4, Apr 2021
